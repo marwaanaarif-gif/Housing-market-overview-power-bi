@@ -1,6 +1,6 @@
 ## 🔎 Key Insights — Housing Market & Real Estate Analysis
 
-This file documents the analytical findings from the Power BI dashboard.
+This file documents the analytical findings from my Power BI dashboard.
 
 ---
 
@@ -48,7 +48,6 @@ This file documents the analytical findings from the Power BI dashboard.
 
 ### SQM vs. SQM price combo chart
 - **What to note**: Is there a house type that is large in SQM but cheap per SQM, or small but expensive? This is the value-density insight.
-
 ---
 
 s what's actually driving value."
