@@ -1,4 +1,4 @@
-# Housing Market & Real Estate Analysis — Power BI Dashboard
+# 🏠 Housing Market & Real Estate Analysis — Power BI Dashboard
 
 A multi-page Power BI report analysing residential real estate sales performance across regions, property types, and time periods. Built to surface pricing trends, YOY sales growth, and the relationship between offer and purchase prices at a regional and property-type level.
 
@@ -7,19 +7,19 @@ A multi-page Power BI report analysing residential real estate sales performance
 
 | Page | Description |
 |------|-------------|
-(https://github.com/marwaanaarif-gif/Housing-market-overview-power-bi/blob/main/housing%20market%20overview.png) | House Market Overview |
-(https://github.com/marwaanaarif-gif/Housing-market-overview-power-bi/blob/main/Sales%20overview.png) | Sales Overview |
+https://github.com/marwaanaarif-gif/Housing-market-overview-power-bi/blob/main/housing%20market%20overview.png | House Market Overview |
+https://github.com/marwaanaarif-gif/Housing-market-overview-power-bi/blob/main/Sales%20overview.png | Sales Overview |
 https://github.com/marwaanaarif-gif/Housing-market-overview-power-bi/blob/main/house%20type%20overview.png| House Type Overview |
 
 ---
 
-## Project overview
+## 📄 Project overview
 
-### Problem statement
+### ❔ Problem statement
 Real estate markets shift quickly — prices move by region, property type, and macroeconomic conditions like interest and inflation rates. 
 This dashboard was built to answer a core question: **where are prices moving, which property types are driving volume, and how closely are offer prices tracking final purchase prices?**
 
-### What I built
+### 🛠️ What I built
 A 3-page interactive Power BI report covering:
 - Market-level KPIs (units sold, 12-month revenue)
 - Regional sales and price-per-sqm breakdowns
@@ -30,9 +30,9 @@ A 3-page interactive Power BI report covering:
 
 ---
 
-## Report pages
+## 🗂️ Report pages
 
-### Page 1 — House Market Overview
+### Page 1 — House Market Overview 🛋️
 High-level market snapshot with top-line KPIs and pricing trend visuals.
 
 | Visual | Type | Key fields |
@@ -43,7 +43,7 @@ High-level market snapshot with top-line KPIs and pricing trend visuals.
 | Units sold (latest quarter) | KPI card | `Total_Units_Latest_Quarter` |
 | 12-month revenue | KPI card | `LAST12_REVENUE` |
 
-### Page 2 — Sales Overview
+### Page 2 — Sales Overview 📈
 Regional and time-based sales performance with key driver analysis.
 
 | Visual | Type | Key fields |
@@ -54,7 +54,7 @@ Regional and time-based sales performance with key driver analysis.
 | Key drivers of purchase price | Key influencers | `PURCHASE_PRICE`, `AGE` |
 | Offer per SQM ratio by sales type | Bar chart | `OFFER PER SQM RATIO`, `SALES_TYPE` |
 
-### Page 3 — House Type Overview
+### Page 3 — House Type Overview 🗃️ 
 Deep dive into how property characteristics (type, size, age) interact with price.
 
 | Visual | Type | Key fields |
@@ -66,7 +66,7 @@ Deep dive into how property characteristics (type, size, age) interact with pric
 
 ---
 
-## DAX measures
+## 👷🏾 DAX measures
 
 Custom measures built in the `MEASURE TABLE`:
 
@@ -79,7 +79,7 @@ Custom measures built in the `MEASURE TABLE`:
 
 ---
 
-## Data fields
+## 🪪 Data fields
 
 | Field | Description |
 |-------|-------------|
@@ -102,7 +102,7 @@ Custom measures built in the `MEASURE TABLE`:
 
 ---
 
-## Key findings
+## 🔍 Key findings
 
 > *(Update these with your actual observed values from the dashboard)*
 
@@ -115,11 +115,12 @@ Custom measures built in the `MEASURE TABLE`:
 
 ---
 
-## Tools used
+## 💻 Tools used
 
 - **Power BI Desktop** — report authoring, data modelling, DAX
 - **DAX** — custom measures (YTD, per-SQM ratios, regional aggregates)
 - **Power Query** — data transformation and column preparation
+- **MS Excel** — data cleaning 
 
 ---
 
