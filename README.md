@@ -4,23 +4,20 @@ A multi-page Power BI report analysing residential real estate sales performance
 
 ---
 
-## Dashboard preview
-
-> **Add screenshots of each page here before publishing.**
-> In Power BI Desktop: File → Export → Export to PDF, or use Windows Snip & Sketch on each page tab.
 
 | Page | Description |
 |------|-------------|
 (https://github.com/marwaanaarif-gif/Housing-market-overview-power-bi/blob/main/housing%20market%20overview.png) | House Market Overview |
-| ![Page 2](assets/page2_sales_overview.png) | Sales Overview |
-| ![Page 3](assets/page3_house_type.png) | House Type Overview |
+(https://github.com/marwaanaarif-gif/Housing-market-overview-power-bi/blob/main/Sales%20overview.png) | Sales Overview |
+https://github.com/marwaanaarif-gif/Housing-market-overview-power-bi/blob/main/house%20type%20overview.png| House Type Overview |
 
 ---
 
 ## Project overview
 
 ### Problem statement
-Real estate markets shift quickly — prices move by region, property type, and macroeconomic conditions like interest and inflation rates. This dashboard was built to answer a core question: **where are prices moving, which property types are driving volume, and how closely are offer prices tracking final purchase prices?**
+Real estate markets shift quickly — prices move by region, property type, and macroeconomic conditions like interest and inflation rates. 
+This dashboard was built to answer a core question: **where are prices moving, which property types are driving volume, and how closely are offer prices tracking final purchase prices?**
 
 ### What I built
 A 3-page interactive Power BI report covering:
@@ -130,18 +127,9 @@ Custom measures built in the `MEASURE TABLE`:
 
 1. Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 2. Clone or download this repository
-3. Open `HOUSING_MARKET_REAL_ESTATE_PROJECT.pbix`
+3. Open `Housing market overview (real estate project).pbix`
 4. Use the slicers on Page 3 (Area, City, Sales Type, Region) to filter across all visuals
 
 ---
 
-## Related projects
 
-- [Loan Default Analysis](https://github.com/marwan4work-cmyk/loan-default-analysis) — classification model identifying key predictors of loan default
-
----
-
-## Author
-
-**Marwan** — Supply chain & data analyst with a GCC market focus.
-Connect on [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-HERE)
