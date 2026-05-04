@@ -104,14 +104,11 @@ Custom measures built in the `MEASURE TABLE`:
 
 ## 🔍 Key findings
 
-> *(Update these with your actual observed values from the dashboard)*
-
-- **Offer-to-purchase alignment**: The scatter chart on Page 1 shows how closely offer prices track final sale prices — [note whether they tend to sell over or under asking].
-- **Regional price spread**: The median price bar chart reveals significant variation across regions — [top region] commands the highest median, while [lowest region] sits considerably below market average.
-- **YOY trend**: Sales growth by house type on the line chart shows [apartments/detached/etc.] experienced the sharpest YOY movement.
-- **SQM price driver**: Larger properties don't always yield lower per-SQM prices — the combo chart on Page 3 shows [your finding].
+- **Offer-to-purchase alignment**: The scatter chart on Page 1 shows how closely offer prices track final sale prices — Lower priced houses shows variences between the prices but as the value of houses go up it                                     prices tend to remain the same .
+- **Regional price spread**: The median price bar chart reveals significant variation across regions — Jutland commands the highest median, while Bornholm sits considerably below market average.
+- **YOY trend**: Sales growth by house type on the line chart shows houses on auction experienced the sharpest YOY movement.
+- **SQM price driver**: Larger properties don't always yield lower per-SQM prices — the combo chart on Page 3 shows sqm prices of farms are much lower when compared to those of apartments even though the sqm of                          the former are much bigger in value 
 - **Key influencer**: The key drivers visual (Page 2) identifies property age as a notable factor in purchase price variation.
-- **Inflation & interest context**: Overlaying inflation and nominal interest rates by house type (Page 3) contextualises why [certain types] show wider offer-purchase gaps.
 
 ---
 
