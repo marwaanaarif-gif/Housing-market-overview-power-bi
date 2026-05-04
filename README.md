@@ -11,7 +11,7 @@ A multi-page Power BI report analysing residential real estate sales performance
 
 | Page | Description |
 |------|-------------|
-| ![Page 1](assets/page1_market_overview.png) | House Market Overview |
+(https://github.com/marwaanaarif-gif/Housing-market-overview-power-bi/blob/main/housing%20market%20overview.png) | House Market Overview |
 | ![Page 2](assets/page2_sales_overview.png) | Sales Overview |
 | ![Page 3](assets/page3_house_type.png) | House Type Overview |
 
